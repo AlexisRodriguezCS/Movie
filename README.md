@@ -35,7 +35,6 @@ The project consists of four files:
 
 # How to Install and Run
 
-
 To install and run the Movie App project, follow these steps:
 
 1.  Ensure that you have Flutter and Dart installed on your machine. For installation instructions, refer to the official Flutter documentation.
@@ -66,11 +65,15 @@ Once the Movie App is running, follow these instructions to use the app:
 
 - The app displays a list of movies on the main screen. Scroll through the list to browse the available movies.
 
+  ![home](https://raw.githubusercontent.com/AlexisRodriguezCS/Movie/master/images/home.PNG)
+
 - Tap on a movie item to view its detailed information on a new screen.
 
 - On the detailed information screen, you can see the movie's directors, movie stars, duration, IMDb rating, and Rotten Tomatoes rating.
 
 - Long-press on a movie item to show a popup menu with additional options.
+
+  ![Long-press](https://raw.githubusercontent.com/AlexisRodriguezCS/Movie/master/images/options.PNG)
 
 - Select "More Info" to view more details about the selected movie.
 
