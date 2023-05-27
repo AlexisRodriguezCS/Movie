@@ -31,9 +31,11 @@ The project consists of four files:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<a name="install"></a>
+
 # How to Install and Run
 
-<a name="install"></a>
+
 To install and run the Movie App project, follow these steps:
 
 1.  Ensure that you have Flutter and Dart installed on your machine. For installation instructions, refer to the official Flutter documentation.
