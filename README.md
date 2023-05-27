@@ -54,9 +54,9 @@ To install and run the Movie App project, follow these steps:
 
             flutter run
 
-        This command will build the app and install it on the connected device or emulator. The app will start automatically, and you can interact with it using the provided user interface.
+    This command will build the app and install it on the connected device or emulator. The app will start automatically, and you can interact with it using the provided user interface.
 
-    <p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <a name="use"></a>
 
