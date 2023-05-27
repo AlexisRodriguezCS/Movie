@@ -37,6 +37,8 @@ The project consists of four files:
 
 To install and run the Movie App project, follow these steps:
 
+> Personally, I utilized Android Studio for the development of this movie app.
+
 1.  Ensure that you have Flutter and Dart installed on your machine. For installation instructions, refer to the official Flutter documentation.
 
 2.  Clone the project repository or download the project files to your local machine.
